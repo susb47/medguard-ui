@@ -25,7 +25,7 @@ export default function PublicationPage() {
             </div>
             <div>
               <p className="text-sm font-medium text-slate-700 dark:text-slate-300">Status: Accepted for Publication</p>
-              <p className="text-xs text-slate-500 dark:text-slate-400">Expected Online: February 2025</p>
+              <p className="text-xs text-slate-500 dark:text-slate-400">Expected Online: February 2026</p>
             </div>
           </div>
         </div>
